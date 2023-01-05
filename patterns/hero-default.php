@@ -51,8 +51,8 @@
 <div class="wp-block-group has-primary-light-gradient-background has-background" style="filter:blur(100px);transform:scale(1.4)"></div>
 <!-- /wp:group -->
 
-<!-- wp:video {"id":581,"style":{"u002du002dposition":"relative","u002du002dz-index":"1","spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"zIndex":{"all":"1"},"position":{"all":"relative"},"color":{"background":"#000000e8"}}} -->
-<figure class="wp-block-video has-background" style="background-color:#000000e8;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><video controls src="<?php echo content_url( "/themes/saasify/assets/img/" ) ?>star-flight.mp4"></video></figure>
+<!-- wp:video {"id":581,"style":{"u002du002dposition":"relative","u002du002dz-index":"1","spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"zIndex":{"all":"1"},"position":{"all":"relative"},"color":{"text":"#fff","background":"#000000e8"}}} -->
+<figure class="wp-block-video has-background" style="color:#fff;background-color:#000000e8;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><video controls src="<?php echo content_url( "/themes/saasify/assets/video/" ) ?>star-flight.mp4"></video></figure>
 <!-- /wp:video --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
