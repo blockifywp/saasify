@@ -5,7 +5,6 @@
   "license": "GPL-2.0-or-later",
   "scripts": {
     "pot": "wp i18n make-pot ./ languages/saasify.pot --exclude='vendor,node_modules,assets'",
-    "zip": "rm -Rf ../../saasify.zip && zip -r ../../saasify.zip assets/ languages/ parts/ patterns/ styles/ templates/ readme.txt screenshot.png style.css theme.json",
-    "svn": "func() { npm run pot && npm run zip && cp ../../saasify.zip /Users/seothemes/Documents/Blockify/svn/saasify && cd /Users/seothemes/Documents/Blockify/svn/saasify && svn up && svn cp $1 $2 && cd $2 && rm -Rf ./* && cd .. && unzip saasify.zip -d $2 && rm saasify.zip && open -a Terminal .; }; func"
+    "zip": "rm -Rf ../../saasify.zip && zip -r ../../saasify.zip assets/ languages/ parts/ patterns/ styles/ templates/ readme.txt screenshot.png style.css theme.json"
   }
 }

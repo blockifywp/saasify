@@ -2,14 +2,14 @@
 Contributors: blockify
 Requires at least: 6.1
 Tested up to: 6.1
-Stable tag: 0.2.0
+Stable tag: 0.0.1
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Modern full site editing enabled child theme for Blockify. Features fully customizable conic gradients, custom SVG illustrations, responsive positioning settings and more. Perfect for building a portfolio, blog or business website.
+Modern full site editing child theme for Blockify. Perfect for SaaS companies, startups, agencies, freelancer portfolios, crypto or any digital product or service business.
 
 == Installation ==
 
@@ -33,17 +33,22 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details,
 
-Google Fonts
+Lexend Font
+Source: Google Fonts
 License: SIL Open Font License, 1.1
 License URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+Star Flight Video
+Source: https://isorepublic.com/video/star-flight/
+Source License URL: https://isorepublic.com/license/
+License: CC0 License
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
 
 Placeholder Logos
 All custom SVG illustrations and placeholder logos designed by the author and licensed under GNU General Public License, version 2 or later.
 
 == Changelog ==
 
-* Update: New design
-
-= 0.0.1 - 29 November 2022 =
+= 0.0.1 - 5 January 2023 =
 
 * Add: Initial release

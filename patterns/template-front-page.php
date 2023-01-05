@@ -16,4 +16,5 @@ require __DIR__ . '/testimonials-box.php';
 require __DIR__ . '/pricing-three-column.php';
 require __DIR__ . '/faq-accordion.php';
 require __DIR__ . '/cta-box.php';
+require __DIR__ . '/feature-marquee.php';
 

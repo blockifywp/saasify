@@ -15,11 +15,7 @@
 <div class="wp-block-columns alignwide" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:column {"width":"","style":{"spacing":{"padding":{"bottom":"1em"}}}} -->
 <div class="wp-block-column" style="padding-bottom:1em"><!-- wp:group {"style":{"spacing":{"blockGap":"6px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"u002du002dposition":"relative","position":{"all":"relative"},"zIndex":{"all":"1"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:spacer {"height":"","style":{"position":{"all":"absolute"},"top":{"all":"0px"},"right":{"all":"0px"},"bottom":{"all":"0px"},"left":{"all":"0px"},"filter":{"blur":"10"},"zIndex":{"all":"1"}},"gradient":"primary"} -->
-<div style="height:;filter:blur(10px)" aria-hidden="true" class="wp-block-spacer has-primary-gradient-background has-background"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:spacer {"height":"","style":{"position":{"all":"absolute"},"top":{"all":"0px"},"right":{"all":"0px"},"bottom":{"all":"0px"},"left":{"all":"0px"},"border":{"radius":"99px"},"transform":{"scale":0.8},"zIndex":{"all":"2"}},"backgroundColor":"background"} -->
+<div class="wp-block-group"><!-- wp:spacer {"height":"","style":{"position":{"all":"absolute"},"top":{"all":"0px"},"right":{"all":"0px"},"bottom":{"all":"0px"},"left":{"all":"0px"},"border":{"radius":"99px"},"transform":{"scale":0.8},"zIndex":{"all":"2"}},"backgroundColor":"background"} -->
 <div style="border-radius:99px;height:;transform:scale(0.8)" aria-hidden="true" class="wp-block-spacer has-background-background-color has-background"></div>
 <!-- /wp:spacer -->
 
@@ -28,17 +24,11 @@
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textDecoration":"none"}},"fontSize":"24"} -->
-<h4 class="has-24-font-size" style="font-style:normal;font-weight:600;text-decoration:none"><a href="./saasify">Saasify</a></h4>
-<!-- /wp:heading --></div>
+<!-- wp:site-title {"level":5} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"fontSize":"16"} -->
-<p class="has-16-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"left","style":{"border":{"radius":"6px","width":"0px","style":"none"},"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"typography":{"letterSpacing":"4px"},"boxShadow":""},"fontSize":"14"} -->
-<p class="alignleft has-text-align-left has-14-font-size alignleft" style="border-style:none;border-width:0px;border-radius:6px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;letter-spacing:4px">★★★★★</p>
+<p class="has-16-font-size">Streamline your workflow with our leading SaaS platform. Trusted by over 10,000 happy customers.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -168,9 +158,17 @@
 <!-- /wp:columns -->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs)"><!-- wp:paragraph {"align":"center"} -->
-<p class="aligncenter has-text-align-center aligncenter">© Copyright [year] Saasify. All rights reserved. </p>
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs)"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
+<p class="aligncenter has-text-align-center aligncenter">© Copyright [year]・</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:site-title {"level":0,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} /-->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="aligncenter has-text-align-center aligncenter">・All rights reserved. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
 
 <!-- wp:social-links {"iconColor":"foreground","iconColorValue":"#000","size":"has-small-icon-size","style":{"spacing":{"margin":{"top":"0"},"blockGap":{"top":"var:preset|spacing|xs","left":"var:preset|spacing|xs"},"padding":{"top":"0"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"left","orientation":"horizontal"}} -->
 <ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-logos-only" style="margin-top:0;padding-top:0"><!-- wp:social-link {"url":"#","service":"twitter"} /-->
