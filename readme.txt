@@ -2,7 +2,7 @@
 Contributors: blockify
 Requires at least: 6.1
 Tested up to: 6.1
-Stable tag: 0.0.3
+Stable tag: 0.0.4
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -51,7 +51,10 @@ All custom SVG illustrations and placeholder logos designed by the author and li
 
 = 0.0.4 - 18 February 2023 =
 
+* Add: Submenu background color
 * Fix: String translation workaround
+* Fix: Testimonial marquee speed
+* Fix: Feature pattern placeholder font size
 
 = 0.0.3 - 18 February 2023 =
 
