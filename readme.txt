@@ -2,7 +2,7 @@
 Contributors: blockify
 Requires at least: 6.1
 Tested up to: 6.1
-Stable tag: 0.0.2
+Stable tag: 0.0.3
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,7 +33,7 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details,
 
-Lexend Font
+Figtree Font
 Source: Google Fonts
 License: SIL Open Font License, 1.1
 License URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
@@ -48,6 +48,21 @@ Placeholder Logos
 All custom SVG illustrations and placeholder logos designed by the author and licensed under GNU General Public License, version 2 or later.
 
 == Changelog ==
+
+= 0.0.4 - 18 February 2023 =
+
+* Fix: String translation workaround
+
+= 0.0.3 - 18 February 2023 =
+
+* Add: Dark style variation
+* Add: Missing flow block font
+* Fix: Dark mode toggle
+* Update: Change font to Figtree
+* Update: Simplify block patterns
+* Update: Use customizable colors for gradient
+* Update: Screenshot to match new design
+* Remove: Marquee from home page
 
 = 0.0.2 - 5 January 2023 =
 
