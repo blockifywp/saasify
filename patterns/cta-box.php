@@ -14,7 +14,7 @@
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|xl","right":"var:preset|spacing|sm","bottom":"var:preset|spacing|xl","left":"var:preset|spacing|sm"}},"u002du002dposition":"relative","u002du002dz-index":"2","border":{"radius":"30px"}},"backgroundColor":"surface","className":"is-style-default","layout":{"type":"constrained","contentSize":"640px"}} -->
 <div class="wp-block-group is-style-default has-surface-background-color has-background" style="border-radius:30px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--xl);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"><?php _e('Ready to take your site the next level?', 'saasify') ?></h2>
+<h2 class="has-text-align-center"><?php esc_html_e('Ready to take your site the next level?', 'saasify') ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|xs"}}}} -->

@@ -1,8 +1,8 @@
 === Saasify ===
 Contributors: blockify
 Requires at least: 6.1
-Tested up to: 6.1
-Stable tag: 0.0.4
+Tested up to: 6.2
+Stable tag: 0.1.0
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -48,6 +48,12 @@ Placeholder Logos
 All custom SVG illustrations and placeholder logos designed by the author and licensed under GNU General Public License, version 2 or later.
 
 == Changelog ==
+
+= 0.1.0 - 22 April 2023 =
+
+* Remove: Templates
+* Update: Footer year template tag
+* Fix: Video button color
 
 = 0.0.4 - 18 February 2023 =
 
