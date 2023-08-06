@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Utility Circle Button
- * Slug: utility-circle-button
+ * Slug: circle-button
  * Categories: utility
  * 
  */

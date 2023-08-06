@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: CTA Reviews
- * Slug: cta-reviews
+ * Slug: reviews
  * Categories: cta
  * 
  */

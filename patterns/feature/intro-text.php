@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Feature Intro Text
- * Slug: feature-intro-text
+ * Slug: intro-text
  * Categories: feature
  * 
  */

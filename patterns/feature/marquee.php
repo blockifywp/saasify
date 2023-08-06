@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Feature Marquee
- * Slug: feature-marquee
+ * Title: Marquee
+ * Slug: marquee
  * Categories: feature
  * 
  */
