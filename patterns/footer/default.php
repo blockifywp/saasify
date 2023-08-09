@@ -11,20 +11,19 @@
 <div class="wp-block-group alignfull is-style-default has-14-font-size" style="margin-top:0;padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md","top":"var:preset|spacing|md","right":"0","left":"0"},"margin":{"top":"0","bottom":"0"},"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|lg"}}}} -->
 <div class="wp-block-columns alignwide" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:column {"width":"33%","style":{"spacing":{"padding":{"bottom":"1em"}}}} -->
 <div class="wp-block-column" style="padding-bottom:1em;flex-basis:33%"><!-- wp:group {"style":{"spacing":{"blockGap":"6px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"6px","right":"4px","bottom":"6px","left":"4px"}},"typography":{"lineHeight":"1","fontStyle":"normal","fontWeight":"700"},"border":{"radius":"6px"},"position":{"all":"relative"},"transform":""},"backgroundColor":"neutral-800","textColor":"neutral-0","layout":{"type":"flex","flexWrap":"nowrap"},"fontSize":"12"} -->
-<div class="wp-block-group has-neutral-0-color has-neutral-800-background-color has-text-color has-background has-12-font-size" style="border-radius:6px;padding-top:6px;padding-right:4px;padding-bottom:6px;padding-left:4px;font-style:normal;font-weight:700;line-height:1"><!-- wp:group {"style":{"spacing":{"padding":{"left":"0","right":"0"},"blockGap":"2px","margin":{"top":"0","bottom":"0"}},"position":{"all":"relative"},"zIndex":{"all":"1"},"transform":""},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"bottom"}} -->
-<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0"><!-- wp:spacer {"height":"4px","style":{"width":{"all":"4px"},"border":{"radius":"99px"},"filter":{"opacity":"33"}},"backgroundColor":"neutral-0"} -->
-<div style="border-radius:99px;height:4px;filter:opacity(33%)" aria-hidden="true" class="wp-block-spacer has-neutral-0-background-color has-background"></div>
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"4px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"border":{"radius":"8px"},"position":{"all":"relative"},"display":"","layout":{"selfStretch":"fit","flexSize":""},"dimensions":{"minHeight":"22px"},"width":"","spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}},"order":"","maxWidth":{"all":"22px"}},"backgroundColor":"neutral-800","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group has-neutral-800-background-color has-background" style="border-radius:8px;min-height:22px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"blockGap":"4px","margin":{"top":"0","bottom":"0"}},"layout":{"selfStretch":"fit","flexSize":""},"width":"","display":"","order":"","maxWidth":"","transform":{"rotate":-45,"scale":0.6,"translateX":"","translateY":""},"position":"","top":"","right":"","bottom":"","left":"","zIndex":""},"className":"margin-auto","layout":{"type":"default"}} -->
+<div class="wp-block-group margin-auto" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;transform:rotate(-45deg) scale(0.6)"><!-- wp:spacer {"height":"4px","style":{"border":{"radius":"4px"},"width":{"all":"20px"},"maxWidth":"","display":"","order":"","spacing":{"margin":{"left":"var:preset|spacing|xxs"}}},"backgroundColor":"neutral-0"} -->
+<div style="border-radius:4px;margin-left:var(--wp--preset--spacing--xxs);height:4px" aria-hidden="true" class="wp-block-spacer has-neutral-0-background-color has-background"></div>
 <!-- /wp:spacer -->
-<!-- wp:spacer {"height":"8px","style":{"width":{"all":"4px"},"border":{"radius":"99px"},"filter":{"opacity":"66"}},"backgroundColor":"neutral-0"} -->
-<div style="border-radius:99px;height:8px;filter:opacity(66%)" aria-hidden="true" class="wp-block-spacer has-neutral-0-background-color has-background"></div>
-<!-- /wp:spacer -->
-<!-- wp:spacer {"height":"12px","style":{"width":{"all":"4px"},"border":{"radius":"99px"}},"backgroundColor":"neutral-0"} -->
-<div style="border-radius:99px;height:12px" aria-hidden="true" class="wp-block-spacer has-neutral-0-background-color has-background"></div>
+<!-- wp:spacer {"height":"4px","style":{"border":{"radius":"4px"},"display":"","width":{"all":"20px"},"order":"","maxWidth":"","spacing":{"margin":{"right":"var:preset|spacing|xxs"}}},"backgroundColor":"neutral-0"} -->
+<div style="border-radius:4px;margin-right:var(--wp--preset--spacing--xxs);height:4px" aria-hidden="true" class="wp-block-spacer has-neutral-0-background-color has-background"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 <!-- wp:site-title {"level":0,"className":"is-style-heading","fontSize":"18"} /--></div>
+<!-- /wp:group --></div>
 <!-- /wp:group -->
 <!-- wp:paragraph {"fontSize":"16"} -->
 <p class="has-16-font-size">Streamline your workflow with our leading SaaS platform. Trusted by over 10,000 happy customers.</p>
