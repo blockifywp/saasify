@@ -6,7 +6,7 @@
  * Inserter: false
  */
 ?>
-<!-- wp:pattern {"slug":"hero-default"} /-->
+<!-- wp:pattern {"slug":"hero-left"} /-->
 <!-- wp:pattern {"slug":"testimonial-brands"} /-->
 <!-- wp:pattern {"slug":"feature-icons-centered"} /-->
 <!-- wp:pattern {"slug":"feature-image-right"} /-->
