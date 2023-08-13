@@ -1,9 +1,8 @@
 <?php
 /**
- * Title: Home
- * Slug: home
+ * Title: Landing
+ * Slug: landing
  * Categories: page
- * Inserter: false
  */
 ?>
 <!-- wp:pattern {"slug":"hero-left"} /-->

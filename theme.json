@@ -85,22 +85,11 @@
           "color": "var(--wp--preset--color--neutral-900)"
         }
       },
-      "surface": {
-        "borderWidth": "0",
-        "backdropFilter": "blur(6px)",
-        "borderRadius": "var(--wp--custom--border--radius)",
-        "boxShadow": "var(--wp--custom--box-shadow)",
-        "background": "transparent"
-      },
       "buttonOutline": {
         "color": "var(--wp--preset--color--neutral-800)"
       },
       "strong": {
         "fontWeight": "600"
-      },
-      "surfaceOverlay": {
-        "background": "var(--wp--preset--color--neutral-500)",
-        "opacity": "0.05"
       },
       "siteBlocks": {
         "overflowX": "visible"
