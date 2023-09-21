@@ -20,8 +20,8 @@
 <!-- /wp:group -->
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm"},"margin":{"bottom":"0"}},"position":{"all":"relative"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="margin-bottom:0;padding-bottom:var(--wp--preset--spacing--sm)"><!-- wp:group {"align":"wide","style":{"position":{"all":"relative"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide"><!-- wp:columns {"verticalAlignment":"top","align":"wide","style":{"spacing":{"padding":{"bottom":"0"},"blockGap":{"top":"0","left":"var:preset|spacing|xs"}}},"fontSize":"18"} -->
-<div class="wp-block-columns alignwide are-vertically-aligned-top has-18-font-size" style="padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","style":{"position":{"all":"relative"}}} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"verticalAlignment":"top","align":"wide","style":{"spacing":{"padding":{"bottom":"0"},"blockGap":{"top":"0","left":"var:preset|spacing|xs"}}}} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-top" style="padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","style":{"position":{"all":"relative"}}} -->
 <div class="wp-block-column is-vertically-aligned-top"><!-- wp:group {"style":{"position":{"all":"relative"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"u002du002dposition":"absolute","u002du002dinset":"0px 0px 0px 0px","transform":{"scale":1},"filter":{"blur":"60"},"spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"position":{"all":"absolute"},"top":{"all":"0px"},"right":{"all":"0px"},"bottom":{"all":"0px"},"left":{"all":"0px"},"zIndex":{"all":"0"},"display":"","order":"","width":"","maxWidth":""},"gradient":"primary-light","className":"has-filter has-transform","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-filter has-transform has-primary-light-gradient-background has-background" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;filter:blur(60px);transform:scale(1)"></div>
