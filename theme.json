@@ -63,20 +63,6 @@
         "thin": 100
       },
       "darkMode": {
-        "palette": {
-          "neutral-0": "#111827",
-          "neutral-50": "#1f2937",
-          "neutral-100": "#374151",
-          "neutral-200": "#4b5563",
-          "neutral-300": "#6b7280",
-          "neutral-400": "#9ca3af",
-          "neutral-500": "#d1d5db",
-          "neutral-600": "#e5e7eb",
-          "neutral-700": "#f3f4f6",
-          "neutral-800": "#f9fafb",
-          "neutral-900": "#ffffff",
-          "neutral-950": "#ffffff"
-        },
         "ghost": {
           "color": "var(--wp--preset--color--neutral-900)"
         }
@@ -89,9 +75,6 @@
       },
       "siteBlocks": {
         "overflowX": "visible"
-      },
-      "subHeading": {
-        "background": "var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple)"
       },
       "ghost": {
         "color": "var(--wp--preset--color--neutral-800)"

@@ -34,19 +34,17 @@
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"className":"has-text-align-left is-style-heading"} -->
-<p class="has-text-align-left is-style-heading">Pages</p>
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xxs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|xxs"}}},"className":"has-text-align-left is-style-heading"} -->
+<p class="has-text-align-left is-style-heading" style="margin-bottom:var(--wp--preset--spacing--xxs)">Pages</p>
 <!-- /wp:paragraph -->
-<!-- wp:navigation {"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"typography":{"fontStyle":"normal","fontWeight":"400"}}} -->
-<!-- wp:page-list /-->
-<!-- /wp:navigation --></div>
+<!-- wp:navigation {"ref":306,"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"},"blockGap":"var:preset|spacing|xxs"},"typography":{"fontStyle":"normal","fontWeight":"400"}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"className":"has-text-align-left is-style-heading"} -->
-<p class="has-text-align-left is-style-heading">Store</p>
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xxs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|xxs"}}},"className":"has-text-align-left is-style-heading"} -->
+<p class="has-text-align-left is-style-heading" style="margin-bottom:var(--wp--preset--spacing--xxs)">Store</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
 <p class="has-text-align-left">Shop</p>
@@ -70,9 +68,9 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"className":"has-text-align-left is-style-heading"} -->
-<p class="has-text-align-left is-style-heading">Content</p>
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xxs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|xxs"}}},"className":"has-text-align-left is-style-heading"} -->
+<p class="has-text-align-left is-style-heading" style="margin-bottom:var(--wp--preset--spacing--xxs)">Content</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
 <p class="has-text-align-left">Blog</p>
@@ -92,9 +90,9 @@
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"className":"has-text-align-left is-style-heading"} -->
-<p class="has-text-align-left is-style-heading">Extra</p>
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xxs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|xxs"}}},"className":"has-text-align-left is-style-heading"} -->
+<p class="has-text-align-left is-style-heading" style="margin-bottom:var(--wp--preset--spacing--xxs)">Extra</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
 <p class="has-text-align-left">Privacy Policy</p>
