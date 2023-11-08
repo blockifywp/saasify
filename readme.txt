@@ -49,6 +49,10 @@ All custom SVG illustrations and placeholder logos designed by the author and li
 
 == Changelog ==
 
+= 0.5.0 = 8 November 2023 =
+
+* Update: Blockify 1.3.0 and WordPress 6.4 compatibility
+
 = 0.1.0 - 22 April 2023 =
 
 * Remove: Templates
