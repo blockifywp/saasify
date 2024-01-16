@@ -24,9 +24,38 @@ indent_size = 2
 [*.md]
 trim_trailing_whitespace = false
 
+[*.tsx]
+indent_style = unset
+
 [LICENSE]
 indent_style = unset
 
-# @FIXME SVG final newlines are a mess.
+# Ignore generated files
+
+[assets/css/**]
+insert_final_newline = unset
+trim_trailing_whitespace = unset
+
+[assets/fonts/**]
+insert_final_newline = unset
+trim_trailing_whitespace = unset
+
+[assets/js/**]
+insert_final_newline = unset
+trim_trailing_whitespace = unset
+
 [assets/svg/**]
 insert_final_newline = unset
+trim_trailing_whitespace = unset
+
+[patterns/**]
+insert_final_newline = unset
+trim_trailing_whitespace = unset
+
+[vendor/**]
+charset = unset
+end_of_line = unset
+insert_final_newline = unset
+trim_trailing_whitespace = unset
+indent_style = unset
+indent_size = unset
