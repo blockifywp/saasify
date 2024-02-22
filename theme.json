@@ -83,20 +83,6 @@
         "background": "var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple)"
       }
     },
-    "color": {
-      "gradients": [
-        {
-          "name": "Primary",
-          "slug": "primary",
-          "gradient": "var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple)"
-        },
-        {
-          "name": "Primary 100",
-          "slug": "primary-100",
-          "gradient": "linear-gradient(135deg,rgba(6,147,227,0.1) 0%,rgba(155,81,224,0.1) 100%)"
-        }
-      ]
-    },
     "typography": {
       "fontFamilies": [
         {

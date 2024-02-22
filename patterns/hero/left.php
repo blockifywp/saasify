@@ -1,22 +1,24 @@
 <?php
 /**
- * Title: Left
+ * Title: Hero Left
  * Slug: left
  * Categories: hero
- * ID: 150
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"}},"position":"","zIndex":"","top":"","right":"","bottom":"","left":""},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:spacer {"height":"var:preset|spacing|xxl"} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|xl"}},"position":"","zIndex":"","top":"","right":"","bottom":"","left":""},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:spacer {"height":"var:preset|spacing|xxl"} -->
 <div style="height:var(--wp--preset--spacing--xxl)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 <!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":{"top":"var:preset|spacing|xl","left":"var:preset|spacing|xl"},"padding":{"top":"0","bottom":"0"}},"position":"","zIndex":"","top":"","right":"","bottom":"","left":""}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"},"padding":{"top":"0","bottom":"0"}}}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-bottom:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="margin-top:0"><!-- wp:group {"style":{"position":{"all":"relative"},"typography":{"fontStyle":"normal","fontWeight":"500"},"border":{"radius":"99px"}},"gradient":"primary-100","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group has-primary-100-gradient-background has-background" style="border-radius:99px;font-style:normal;font-weight:500"><!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"6px","right":"var:preset|spacing|xxs","bottom":"6px","left":"var:preset|spacing|xxs"}},"typography":{"lineHeight":"1"},"border":{"radius":"99px","width":"0px","style":"none"},"position":{"all":"relative"},"zIndex":{"all":"1"}},"gradient":"vivid-cyan-blue-to-vivid-purple","className":"is-style-default","fontSize":"12"} -->
-<p class="aligncenter has-text-align-center is-style-default has-vivid-cyan-blue-to-vivid-purple-gradient-background has-background has-12-font-size aligncenter" style="border-style:none;border-width:0px;border-radius:99px;padding-top:6px;padding-right:var(--wp--preset--spacing--xxs);padding-bottom:6px;padding-left:var(--wp--preset--spacing--xxs);line-height:1">New product release →</p>
+<div class="wp-block-group" style="margin-top:0"><!-- wp:group {"style":{"position":{"all":"relative"},"typography":{"fontStyle":"normal","fontWeight":"500"},"border":{"radius":"99px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="border-radius:99px;font-style:normal;font-weight:500"><!-- wp:spacer {"style":{"layout":{"flexSize":null,"selfStretch":"fill"},"filter":{"opacity":"10"},"position":{"all":"absolute"},"top":{"all":"0px"},"right":{"all":"0px"},"bottom":{"all":"0px"},"left":{"all":"0px"},"border":{"radius":"99px"}},"gradient":"vivid-cyan-blue-to-vivid-purple"} -->
+<div style="border-radius:99px;filter:opacity(10%)" aria-hidden="true" class="wp-block-spacer has-vivid-cyan-blue-to-vivid-purple-gradient-background has-background"></div>
+<!-- /wp:spacer -->
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"6px","right":"var:preset|spacing|xxs","bottom":"6px","left":"var:preset|spacing|xxs"}},"typography":{"lineHeight":"1"},"border":{"radius":"99px","width":"0px","style":"none"},"position":{"all":"relative"},"zIndex":{"all":"1"}},"gradient":"vivid-cyan-blue-to-vivid-purple","className":"is-style-default","fontSize":"12"} -->
+<p class="aligncenter has-text-align-center is-style-default has-vivid-cyan-blue-to-vivid-purple-gradient-background has-background has-12-font-size aligncenter" style="border-style:none;border-width:0px;border-radius:99px;padding-top:6px;padding-right:var(--wp--preset--spacing--xxs);padding-bottom:6px;padding-left:var(--wp--preset--spacing--xxs);line-height:1"><a href="#">New product release →</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -57,7 +59,7 @@
 <!-- /wp:column -->
 <!-- wp:column {"verticalAlignment":"center","style":{"position":"","spacing":{"margin":{"top":"0","bottom":"0"}},"zIndex":"","top":"","right":"","bottom":"","left":""}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="margin-top:0;margin-bottom:0"><!-- wp:group {"style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"}},"position":{"all":"relative"},"zIndex":{"all":"1"},"border":{"radius":"8px"},"transform":{"scale":"1.1","translateX":"1.5em","translateY":""}},"backgroundColor":"neutral-0","className":"is-style-default","layout":{"type":"default"}} -->
-<div class="wp-block-group is-style-default has-neutral-0-background-color has-background" style="border-radius:8px;margin-top:0;margin-bottom:0;transform:scale(1.1) translateX(1.5em)"><!-- wp:spacer {"height":"400px","className":"margin-auto","style":{"filter":{"opacity":20,"blur":80},"position":{"all":"absolute"},"width":{"all":"400px"},"right":{"all":"0px"},"top":{"all":"0px"},"bottom":{"all":"0px"},"left":{"all":"0px"},"transform":{"rotate":30,"skewX":"","skewY":"","skew":"","scaleX":"","scale":"","scaleY":"","rotateX":""},"zIndex":{"all":"0"},"spacing":{"margin":{"top":"0","bottom":"0"}},"border":{"radius":"99px"}},"gradient":"vivid-cyan-blue-to-vivid-purple"} -->
+<div class="wp-block-group is-style-default has-neutral-0-background-color has-background has-transform" style="border-radius:8px;margin-top:0;margin-bottom:0;--transform:scale(1.1) translateX(1.5em)"><!-- wp:spacer {"height":"400px","className":"margin-auto","style":{"filter":{"opacity":20,"blur":80},"position":{"all":"absolute"},"width":{"all":"400px"},"right":{"all":"0px"},"top":{"all":"0px"},"bottom":{"all":"0px"},"left":{"all":"0px"},"transform":{"rotate":30,"skewX":"","skewY":"","skew":"","scaleX":"","scale":"","scaleY":"","rotateX":""},"zIndex":{"all":"0"},"spacing":{"margin":{"top":"0","bottom":"0"}},"border":{"radius":"99px"}},"gradient":"vivid-cyan-blue-to-vivid-purple"} -->
 <div style="border-radius:99px;margin-top:0;margin-bottom:0;height:400px;filter:blur(80px) opacity(20%);transform:rotate(30deg)" aria-hidden="true" class="wp-block-spacer margin-auto has-vivid-cyan-blue-to-vivid-purple-gradient-background has-background"></div>
 <!-- /wp:spacer -->
 <!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|xxs","left":"var:preset|spacing|xxs","top":"0","bottom":"var:preset|spacing|xxs"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"},"border":{"radius":"8px"},"position":{"all":"relative"},"zIndex":{"all":"1"}},"backgroundColor":"neutral-0","layout":{"type":"default"}} -->
@@ -80,8 +82,8 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
-<!-- wp:video {"id":58,"align":"center","style":{"u002du002dposition":"relative","u002du002dz-index":"1","spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}},"textColor":"neutral-0","gradient":"primary-100"} -->
-<figure class="wp-block-video aligncenter has-neutral-0-color has-primary-100-gradient-background has-text-color has-background" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><video controls src="http://blockify.local/saasify/wp-content/themes/saasify/assets/video/star-flight.mp4"></video></figure>
+<!-- wp:video {"id":58,"align":"center","style":{"u002du002dposition":"relative","u002du002dz-index":"1","spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}},"textColor":"neutral-0"} -->
+<figure class="wp-block-video aligncenter has-neutral-0-color has-text-color" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><video controls src="http://blockifydemo.local/saasify/wp-content/themes/saasify/assets/video/star-flight.mp4"></video></figure>
 <!-- /wp:video --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
