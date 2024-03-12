@@ -27,6 +27,7 @@
     ]
   },
   "scripts": {
-    "zip": "composer archive --format=zip --file=../saasify"
+    "zip": "composer archive --format=zip --file=../saasify",
+    "pot": "wp i18n make-pot ./ languages/saasify.pot --exclude='assets'"
   }
 }
