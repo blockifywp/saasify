@@ -79,8 +79,8 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
-<!-- wp:video {"id":58,"align":"center","style":{"u002du002dposition":"relative","u002du002dz-index":"1","spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"maxWidth":{"all":"100%"}},"textColor":"neutral-0"} -->
-<figure class="wp-block-video aligncenter has-neutral-0-color has-text-color" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><video controls src="http://blockifydemo.local/saasify/wp-content/themes/saasify/assets/video/star-flight.mp4"></video></figure>
+<!-- wp:video {"id":374,"align":"center","style":{"u002du002dposition":"relative","u002du002dz-index":"1","spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"maxWidth":{"all":"100%"}},"textColor":"neutral-0"} -->
+<figure class="wp-block-video aligncenter has-neutral-0-color has-text-color" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><video controls src="<?php echo esc_url( content_url( "/themes/saasify/assets/" ) ) ?>video/star-flight.mp4"></video></figure>
 <!-- /wp:video --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
