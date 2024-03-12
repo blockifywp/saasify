@@ -1,8 +1,8 @@
 === Saasify ===
 Contributors: blockify
-Requires at least: 6.2
+Requires at least: 6.4
 Tested up to: 6.4
-Stable tag: 0.5.0
+Stable tag: 0.6.0
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -49,7 +49,19 @@ All custom SVG illustrations and placeholder logos designed by the author and li
 
 == Changelog ==
 
-= 0.5.0 = 8 November 2023 =
+= 0.6.0 - 12 March 2024 =
+
+* Add: Composer zip script
+* Remove: Package.json
+* Remove: Primary and primary-100 gradients (use core default)
+* Fix: Pattern overflow issues and image URLs
+* Fix: Footer overlay menu
+* Update: Rename landing page pattern to page home
+* Update: Use grid for header layout
+* Update: Box shadow color
+* Update: Resize circle buttons
+
+= 0.5.0 - 8 November 2023 =
 
 * Update: Blockify 1.3.0 and WordPress 6.4 compatibility
 
